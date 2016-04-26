@@ -1,4 +1,4 @@
-#ifndef __Base_H_ // file Base
+#ifndef __Base_H_ // file 
 #define __Base_H_
 
 #include <string>
